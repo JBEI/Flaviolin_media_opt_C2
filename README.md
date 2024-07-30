@@ -1,5 +1,5 @@
 # Flaviolin_media_opt_C2
-This repository includes the notebooks and data for campaign 2 of the paper "Machine learning-led semi-automated medium optimization reveals salt as key for flaviolin production in Pseudomonas putida"
+This repository includes the notebooks and data for campaign 2 of the paper "Machine learning-led semi-automated medium optimization reveals salt as key for flaviolin production in Pseudomonas putida". This was the second campaign we performed for titer maximization
 
 We performed 6 DBTL cycles. 
 
