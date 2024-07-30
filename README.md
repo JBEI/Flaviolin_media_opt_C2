@@ -15,5 +15,8 @@ DBTLX_F_Analysis.ipynb: Gets the data from EDD and performs statistical calculat
 
 The first 2 DBTL cycles contain media designs generated using Latin Hypercube Sampling. This was done in the notebook "DBTL1_2_Initial_Media_Designs.ipynb", which replaces the notebooks "DBTL1_C_ART_Media_designs.ipynb" and "DBTL2_C_ART_Media_designs.ipynb"
 
+A schematic of the process is shown in the nexzt figure:
 
 
+
+![pipeline](pipeline.png)
