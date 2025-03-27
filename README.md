@@ -20,3 +20,5 @@ A schematic of the process is shown in the next figure:
 
 
 ![pipeline](pipeline.png)
+
+[![DOI](https://zenodo.org/badge/835357721.svg)](https://doi.org/10.5281/zenodo.15093361)
